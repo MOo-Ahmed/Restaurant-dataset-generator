@@ -1,0 +1,697 @@
+1,Bouillabaisse,Soup,11
+2,Cranberry, Brie & Turkey Pizza,Pizza,26
+3,Shish taouk,Chicken-dishes,84
+4,Swiss Mushroom Loaf,Appetizers,17
+5,Kiwifruit juice,Soft-drinks,4
+6,Pizza Monkey Bread,Appetizers,17
+7,Crispy fried chicken,Chicken-dishes,70
+8,Fast Philly Cheesesteak Pizza,Pizza,58
+9,Orange chicken,Chicken-dishes,61
+10,Salmon-Wrapped Asparagus,Appetizers,16
+11,Barbecue chicken,Chicken-dishes,97
+12,Grape juice,Soft-drinks,4
+13,Poularde Albufera,Chicken-dishes,58
+14,Tortellini broth soup,Soup,11
+15,Potato Soup,Soup,8
+16,Vegetable juice,Soft-drinks,4
+17,Chicken à la King,Chicken-dishes,62
+18,Tea,Hot-drinks,5
+19,Chili,Soup,12
+20,Split Pea Soup,Soup,10
+21,Caramel,Desserts,16
+22,Glazed Chicken Wings,Appetizers,17
+23,Pininyahang manok,Chicken-dishes,90
+24,Flying Jacob,Chicken-dishes,41
+25,Key lime pie,Desserts,13
+26,Lemon Tart,Desserts,12
+27,Cappuccino,Hot-drinks,8
+28,Pecan pie,Desserts,14
+29,Fried chicken,Chicken-dishes,73
+30,Blue Blazer,Hot-drinks,9
+31,Miso,Soup,11
+32,Sesame chicken,Chicken-dishes,47
+33,Fried Ravioli,Appetizers,10
+34,Borscht,Soup,11
+35,Bacon Cheeseburger Slider Bake,Appetizers,11
+36,Spinach-Stuffed Pizza,Pizza,42
+37,Linzer Torte,Desserts,12
+38,Satay,Desserts,13
+39,Carrot juice,Soft-drinks,7
+40,Pumpkin pie,Desserts,12
+41,Twinkie,Desserts,15
+42,Lipton,Hot-drinks,12
+43,Hot chocolate,Hot-drinks,12
+44,Meringue,Desserts,13
+45,Greyana rakiya,Hot-drinks,9
+46,Croissant,Desserts,16
+47,Ice Cream,Desserts,19
+48,Scone,Desserts,19
+49,Fujian red wine chicken,Chicken-dishes,99
+50,Cranberry-Pate Bites,Appetizers,15
+51,Melon juice,Soft-drinks,8
+52,Dakkochi,Chicken-dishes,54
+53,Cinnamon Roll,Desserts,11
+54,Mulligatawny Soup,Soup,12
+55,Fricasé,Chicken-dishes,66
+56,Italian Tuna Dip,Appetizers,16
+57,Pumpkin-Prosciutto Canapes,Appetizers,18
+58,Chewing gum,Desserts,14
+59,Ice Cream Cake,Desserts,13
+60,Coxinha,Chicken-dishes,94
+61,Red Bull,Soft-drinks,3
+62,Chicken tikka masala,Chicken-dishes,56
+63,Popcorn chicken,Chicken-dishes,66
+64,Dragon tiger phoenix,Chicken-dishes,64
+65,Chicken tatsuta,Chicken-dishes,52
+66,Chicken tikka,Chicken-dishes,49
+67,Beef & Barley Soup,Soup,7
+68,Air-Fryer Nashville Hot Chicken,Chicken-dishes,72
+69,Yassa,Chicken-dishes,88
+70,Sesame Balls,Desserts,11
+71,Apfelstrudel,Desserts,12
+72,Shish taouk (Montreal),Chicken-dishes,46
+73,Huli-huli chicken,Chicken-dishes,71
+74,Clam juice,Soft-drinks,5
+75,Chicken Dumpling Soup,Soup,7
+76,Cream of Mushroom Soup,Soup,7
+77,New England clam chowder,Soup,10
+78,Pudding,Desserts,12
+79,West African Chicken Stew,Chicken-dishes,96
+80,African Peanut Soup,Soup,9
+81,Ma'amoul,Desserts,17
+82,Chili-Lime Cashews,Appetizers,8
+83,Caribbean Chicken Stir-Fry,Chicken-dishes,88
+84,Spicy chicken sandwich,Chicken-dishes,40
+85,Ade,Soft-drinks,4
+86,Italian wedding soup,Soup,10
+87,Caffè crema,Hot-drinks,14
+88,Torikatsu,Chicken-dishes,51
+89,Carrot-Ginger Soup Shooters,Appetizers,17
+90,Navy Bean and Ham Soup,Soup,7
+91,Roast chicken,Chicken-dishes,59
+92,Anijsmelk,Hot-drinks,8
+93,Deep-Dish Sausage Pizza,Pizza,22
+94,Parfait,Desserts,18
+95,Churro,Desserts,11
+96,Buldak,Chicken-dishes,45
+97,Ostropel,Chicken-dishes,42
+98,Custard,Desserts,17
+99,Pollo al disco,Chicken-dishes,45
+100,Chicken fingers,Chicken-dishes,89
+101,Fritter,Desserts,16
+102,Rock candy,Desserts,13
+103,Galinhada,Chicken-dishes,56
+104,Rum baba,Desserts,14
+105,Country Captain,Chicken-dishes,47
+106,Izze,Soft-drinks,10
+107,Cronut,Desserts,16
+108,Cashew chicken,Chicken-dishes,55
+109,Jubilee chicken,Chicken-dishes,84
+110,Kouign Amann,Desserts,18
+111,Champurrado – a chocolate-based atole,Hot-drinks,10
+112,Risotto Balls (Arancini),Appetizers,10
+113,Gatorade,Soft-drinks,8
+114,Chicken Maryland,Chicken-dishes,68
+115,Carrot Cake,Desserts,15
+116,Crispy Baked Zucchini Fries,Appetizers,17
+117,Lemon chicken,Chicken-dishes,73
+118,Ice cream cone,Desserts,20
+119,Hot lemonade,Hot-drinks,5
+120,Mughali Chicken,Chicken-dishes,76
+121,Chicken balls,Chicken-dishes,62
+122,Sugar cookie,Desserts,11
+123,Hawaiian haystack,Chicken-dishes,45
+124,Veggie Pizza,Pizza,32
+125,Maraq,Chicken-dishes,92
+126,Goat Cheese with Tomato Chutney,Appetizers,9
+127,Engagement Chicken,Chicken-dishes,80
+128,Espresso,Hot-drinks,8
+129,Horlicks,Hot-drinks,7
+130,Aleberry,Hot-drinks,12
+131,Cardamom Buns,Desserts,19
+132,Brownie,Desserts,17
+133,Party Pesto Pinwheels,Appetizers,11
+134,Beignet,Desserts,11
+135,Taco Tater Skins,Appetizers,16
+136,Korean fried chicken,Chicken-dishes,69
+137,Maple-Chipotle Peanuts,Appetizers,12
+138,Creamy Shrimp Dip,Appetizers,9
+139,Chicken Caesar Pizza,Pizza,38
+140,Doughnut,Desserts,18
+141,Ayam taliwang,Chicken-dishes,70
+142,popsicles,Desserts,20
+143,Salad,Appetizers,16
+144,Shredded Barbecue Chicken over Grits,Chicken-dishes,94
+145,Laziji,Chicken-dishes,55
+146,Cupcake,Desserts,13
+147,Sajji,Chicken-dishes,72
+148,Kifli,Desserts,20
+149,Dill Pickle Hamburger Pizza,Pizza,42
+150,Soto ayam,Chicken-dishes,59
+151,Cake pop,Desserts,12
+152,Dakjuk,Chicken-dishes,50
+153,States,Hot-drinks,6
+154,Malted milk,Hot-drinks,7
+155,Tomato juice,Soft-drinks,9
+156,Romesco Dip,Appetizers,18
+157,Smoking Bishop,Hot-drinks,10
+158,Sponge cake,Desserts,20
+159,Smoothie,Desserts,18
+160,Mora,Soft-drinks,9
+161,Trifle,Desserts,18
+162,Crème brûlée,Desserts,18
+163,Instant Pot Sesame Chicken,Chicken-dishes,57
+164,Chicken with chilies,Chicken-dishes,42
+165,Pancakes,Desserts,20
+166,Pho,Soup,11
+167,Sheet-Pan Tandoori Chicken,Chicken-dishes,38
+168,French fries (with an option to add cheese/ bacon),Appetizers,18
+169,Knoephla Soup,Soup,7
+170,Petimezi,Soft-drinks,7
+171,Coconut water,Soft-drinks,6
+172,Bicerin,Hot-drinks,10
+173,Sundae,Desserts,18
+174,Apple cider,Hot-drinks,8
+175,Onion rings,Appetizers,8
+176,Gummi candy,Desserts,18
+177,Rollatini,Chicken-dishes,72
+178,Limonana,Soft-drinks,7
+179,Biryani,Chicken-dishes,96
+180,Tropicana,Soft-drinks,4
+181,Hunter's chicken,Chicken-dishes,45
+182,Hot buttered rum,Hot-drinks,8
+183,Scaloppine,Chicken-dishes,62
+184,Muffin-Tin Lasagnas,Appetizers,18
+185,Chicken salad,Chicken-dishes,48
+186,Nasi tim,Chicken-dishes,39
+187,Cendol,Desserts,13
+188,Mozzarella sticks,Appetizers,14
+189,S'more,Desserts,15
+190,Dong'an chicken,Chicken-dishes,41
+191,Chargha,Chicken-dishes,81
+192,Mountain Dew,Soft-drinks,5
+193,Dan Tats,Desserts,18
+194,Sassafras tea,Hot-drinks,9
+195,Celery juice,Soft-drinks,7
+196,Ovaltine,Hot-drinks,8
+197,Radish-Anchovy Canapes,Appetizers,10
+198,Boston cream pie,Desserts,15
+199,Mochi,Desserts,16
+200,Mini Manchego Tarts,Appetizers,8
+201,Arroz con pollo,Chicken-dishes,86
+202,Eszterhazy Torta,Desserts,18
+203,Cheddar-Bacon-Pecan Pizza,Appetizers,14
+204,Dr Pepper,Soft-drinks,7
+205,Bubur ayam,Chicken-dishes,91
+206,Torisashi,Chicken-dishes,85
+207,Drunken chicken,Chicken-dishes,88
+208,Nougat,Desserts,20
+209,Tirimisue,Desserts,20
+210,Pressure-Cooker Cranberry Hot Wings,Appetizers,15
+211,Schnitzel,Chicken-dishes,54
+212,Lemon meringue pie,Desserts,20
+213,Tavuk göğsü,Chicken-dishes,69
+214,Bean sprouts chicken,Chicken-dishes,92
+215,Cordial,Desserts,16
+216,Pomegranate Guacamole,Appetizers,12
+217,Hot ginger cordial,Hot-drinks,10
+218,Minute Maid,Soft-drinks,4
+219,Pollo a la Brasa,Chicken-dishes,40
+220,Nescafé,Hot-drinks,9
+221,Sno Balls,Desserts,15
+222,Dapanji,Chicken-dishes,68
+223,Margherita Pizza,Pizza,42
+224,Papaya juice,Soft-drinks,9
+225,Pizza Rolls,Appetizers,17
+226,Beer Cheese Soup,Soup,8
+227,Spinach juice,Soft-drinks,5
+228,Steak & Blue Cheese Pizza,Pizza,34
+229,Chicken Manchurian,Chicken-dishes,72
+230,Chicken soup,Chicken-dishes,88
+231,Job's tears.,Hot-drinks,13
+232,Posset,Hot-drinks,10
+233,Green tea leaves steeping in a gaiwan,Hot-drinks,14
+234,Coffee,Hot-drinks,10
+235,Warm Halloumi Bites,Appetizers,8
+236,Tsukune,Chicken-dishes,60
+237,Jerusalem mixed grill,Chicken-dishes,95
+238,Shrimp-Bacon Sliders,Appetizers,18
+239,Chicken paillard[4][5],Chicken-dishes,48
+240,Raspberry vinegar,Soft-drinks,6
+241,Plecing ayam,Chicken-dishes,96
+242,Biscuits with Cheese and Preserves,Appetizers,18
+243,Hoisin Meatballs,Appetizers,17
+244,Sorol,Chicken-dishes,71
+245,Lemonade,Soft-drinks,9
+246,Andong jjimdak,Chicken-dishes,76
+247,Kelaguen,Chicken-dishes,79
+248,Cucumber Soup,Soup,12
+249,Hot Pizza Dip,Appetizers,10
+250,Cheese Pizza,Pizza,29
+251,Vietnamese Chicken Meatball Soup with Bok Choy,Chicken-dishes,64
+252,Mint,Desserts,20
+253,Saucy Thai Chicken Pizzas,Pizza,55
+254,Pasta e Fagioli,Soup,11
+255,Galinha à africana,Chicken-dishes,55
+256,Kimchi Soup (Kimchi Jjigae),Soup,8
+257,Gulab Jamun,Desserts,18
+258,Chicken fries,Chicken-dishes,68
+259,Chicken parmesan,Chicken-dishes,52
+260,Mocaccino,Hot-drinks,8
+261,Bouillon,Hot-drinks,14
+262,Postum,Hot-drinks,6
+263,Aloe vera juice,Soft-drinks,6
+264,Sanbeiji,Chicken-dishes,76
+265,Minestrone,Soup,11
+266,Gazpacho,Soup,7
+267,Grapefruit juice,Soft-drinks,9
+268,Green tea,Hot-drinks,14
+269,Manhattan Clam Chowder,Soup,9
+270,Chocolate Truffle,Desserts,13
+271,Ice Cream Sandwich,Desserts,12
+272,Chiles Rellenos Squares,Appetizers,11
+273,Brown stew chicken,Chicken-dishes,93
+274,Ayam goreng,Chicken-dishes,46
+275,Wheatgrass juice,Soft-drinks,9
+276,Diet Coke,Soft-drinks,8
+277,Chocolate Lover's Pizza,Pizza,36
+278,Piyanggang manok,Chicken-dishes,80
+279,Milo,Hot-drinks,9
+280,Rotisserie chicken,Chicken-dishes,63
+281,Knafeh,Desserts,15
+282,Fruit,Desserts,14
+283,Herbal tea,Hot-drinks,7
+284,Tzatziki Chicken,Chicken-dishes,49
+285,Musakhan,Chicken-dishes,79
+286,Cotton candy,Desserts,19
+287,Breadstick Pizza,Pizza,41
+288,Breadsticks,Appetizers,13
+289,Candy,Desserts,16
+290,Artichoke & Spinach Dip Pizza,Pizza,64
+291,Pomegranate juice,Soft-drinks,8
+292,Soy sauce chicken,Chicken-dishes,84
+293,Chocolate Mousse,Desserts,20
+294,Chicken and waffles,Chicken-dishes,61
+295,Pie,Desserts,12
+296,Chicken Mole,Chicken-dishes,79
+297,Rice Krispies Treats,Desserts,20
+298,Gummy bear,Desserts,17
+299,Spicy Chicken Enchiladas,Chicken-dishes,63
+300,Chicken Samosas,Chicken-dishes,88
+301,Zeppole,Desserts,12
+302,Italian Steak Bruschetta,Appetizers,11
+303,Black and white cookie,Desserts,11
+304,Shrimp Flautas,Appetizers,18
+305,Hainanese chicken rice,Chicken-dishes,54
+306,Pumpkin-Ham Fritters,Appetizers,16
+307,Stuffed Cherry Peppers,Appetizers,15
+308,Bandrek,Hot-drinks,11
+309,Kashata,Desserts,14
+310,Kulfi,Desserts,18
+311,Mac & cheese (with an option to add bacon),Appetizers,13
+312,Bread Soup,Soup,12
+313,Sherry-Glazed Mushrooms,Appetizers,18
+314,Kettle corn,Desserts,20
+315,Wenchang chicken,Chicken-dishes,58
+316,Lungo,Hot-drinks,6
+317,Miso Soup,Soup,8
+318,Marzipan,Desserts,19
+319,Makeover Fruit Pizza,Pizza,47
+320,Chicken and duck blood soup,Chicken-dishes,71
+321,Fried ice cream,Desserts,16
+322,Whipped cream,Desserts,14
+323,Beet juice,Soft-drinks,5
+324,Coq au vin,Chicken-dishes,82
+325,Spicy Broiled Oysters,Appetizers,13
+326,Murgh Musallam,Chicken-dishes,40
+327,Chicken parmigiana,Chicken-dishes,89
+328,Fudge,Desserts,13
+329,BLT Pizza,Pizza,40
+330,Kaffir lime juice,Soft-drinks,9
+331,Tandoori chicken,Chicken-dishes,87
+332,Baked potato (with an option to add cheese/ bacon),Appetizers,15
+333,Refried Bean-Taco Pizza,Pizza,23
+334,Teriyaki Chicken Thighs,Chicken-dishes,98
+335,Chigirtma,Chicken-dishes,46
+336,Lemon drop,Desserts,17
+337,Snake bite chicken,Chicken-dishes,40
+338,Cheese Crust Pizza,Pizza,24
+339,Cherry pie,Desserts,20
+340,Frozen Yogurt,Desserts,19
+341,French Onion Soup,Soup,9
+342,Padak,Chicken-dishes,51
+343,Rainbow sherbet,Desserts,18
+344,Birthday cake,Desserts,13
+345,Nespresso,Soft-drinks,7
+346,Spinach cheese dip with chips,Appetizers,15
+347,Cobbler,Desserts,18
+348,Spanish-Style Paella,Chicken-dishes,65
+349,Cordon bleu,Chicken-dishes,71
+350,Şalgam,Soft-drinks,4
+351,Asparagus Wraps,Appetizers,12
+352,Dulce de leche,Desserts,15
+353,Dezhou braised chicken,Chicken-dishes,48
+354,Pumpkin-Sage Scallops,Appetizers,12
+355,Homemade Pizza,Pizza,43
+356,Spiced Olives,Appetizers,18
+357,Ají de gallina,Chicken-dishes,70
+358,Chicken Kiev,Chicken-dishes,73
+359,Adobo,Chicken-dishes,80
+360,Stuffed Snow Peas,Appetizers,16
+361,Poultry consommé,Hot-drinks,9
+362,Herbed Deviled Eggs,Appetizers,8
+363,Broiled Garlic Clams,Appetizers,17
+364,Gallo en chicha,Chicken-dishes,61
+365,Rum cake,Desserts,11
+366,Broccoli Cheddar,Soup,9
+367,French onion,Soup,12
+368,Chicken paprikash,Chicken-dishes,87
+369,Pigs in a blanket,Appetizers,13
+370,Milkshake,Desserts,19
+371,Gulab jamun,Desserts,17
+372,Orange juice,Soft-drinks,10
+373,Baklava,Desserts,15
+374,Biscotti,Desserts,18
+375,Roasted Red Pepper Triangles,Appetizers,17
+376,Chocolate,Desserts,15
+377,Ham and Endive Spears,Appetizers,9
+378,Tandoori Spiced Chicken Pita Pizza with Greek Yogurt and Cilantro,Chicken-dishes,89
+379,Korean Wontons,Appetizers,10
+380,Claypot chicken rice,Chicken-dishes,79
+381,Spice bag,Chicken-dishes,94
+382,Broiled Brie with Cranberry Chutney,Appetizers,15
+383,Rhubarb pie,Desserts,12
+384,Bread pudding,Desserts,16
+385,Butter chicken,Chicken-dishes,58
+386,Airline chicken,Chicken-dishes,52
+387,Chili Dog Pizza,Pizza,63
+388,Oliebollen,Desserts,17
+389,Pepsi,Soft-drinks,5
+390,Tbeet[6][7][8],Chicken-dishes,92
+391,Jambonneau,Chicken-dishes,78
+392,Fanta,Soft-drinks,7
+393,Bourbon chicken,Chicken-dishes,68
+394,Coffee cake,Desserts,15
+395,Winter melon punch,Soft-drinks,6
+396,Blistered Mini Peppers,Appetizers,12
+397,Bicerin,Hot-drinks,13
+398,Texas Taco Dip Platter,Appetizers,12
+399,Strawberry juice,Soft-drinks,8
+400,Greyano Vino,Hot-drinks,11
+401,Pirouette,Desserts,17
+402,Doughnuts,Desserts,17
+403,Helzel,Chicken-dishes,62
+404,Honeydew juice,Soft-drinks,4
+405,Roast Chicken with Creole Stuffing,Chicken-dishes,61
+406,Red velvet cake,Desserts,11
+407,Thalassery biryani,Chicken-dishes,51
+408,Chicken curry,Chicken-dishes,44
+409,Funnel Cake,Desserts,15
+410,Shrimp Cocktail,Appetizers,9
+411,Wedang Jahe,Hot-drinks,6
+412,Qatayef,Desserts,13
+413,Blackberry demitasse,Hot-drinks,9
+414,Strudel,Desserts,12
+415,Black Forest Cake,Desserts,19
+416,Speedy Hummus Pizza,Pizza,61
+417,Chinese chicken salad,Chicken-dishes,39
+418,Bajigur,Hot-drinks,9
+419,Swiss roll,Desserts,14
+420,Pumpkin Hummus,Appetizers,18
+421,Baked Alaska,Desserts,18
+422,Butterscotch,Desserts,18
+423,Cuban espresso,Hot-drinks,9
+424,Bon bon chicken,Chicken-dishes,82
+425,Apple cake,Desserts,16
+426,Nacho Tots,Appetizers,11
+427,Sprite,Soft-drinks,7
+428,Cioppino,Soup,10
+429,Chicken Chettinad,Chicken-dishes,71
+430,Bamboo chicken,Chicken-dishes,97
+431,Grilled Fig and Honey Pizza,Pizza,43
+432,Yangnyeom chicken,Chicken-dishes,83
+433,General Tso's chicken,Chicken-dishes,53
+434,Chicken bog,Chicken-dishes,38
+435,Kale-Artichoke Dip,Appetizers,11
+436,Yakitori,Chicken-dishes,60
+437,Tom kha kai,Chicken-dishes,38
+438,Momo,Chicken-dishes,59
+439,Cheesecake,Desserts,13
+440,Tres Leches Cake,Desserts,20
+441,Turnip juice,Soft-drinks,6
+442,M'hanncha,Desserts,16
+443,Seafood Bisque,Soup,7
+444,Hot Bacon Cheese Dip,Appetizers,17
+445,Chicken Divan,Chicken-dishes,61
+446,Rendang ayam,Chicken-dishes,80
+447,Kedjenou,Chicken-dishes,97
+448,Coca-Cola,Soft-drinks,10
+449,Chicken mull,Chicken-dishes,50
+450,Spiced punch,Hot-drinks,12
+451,Sticky Rice with Mango,Desserts,17
+452,Tejuino,Soft-drinks,9
+453,Lungo,Hot-drinks,14
+454,Shrimp & Crab Pizza,Pizza,66
+455,Chicken Tikka Masala,Chicken-dishes,49
+456,Pressure-Cooker Coq au Vin,Chicken-dishes,46
+457,Mini Hot Browns,Appetizers,13
+458,Chocolate pudding,Desserts,11
+459,Brownies,Desserts,13
+460,Baked Potato Pizza,Pizza,68
+461,Grilled Jerk Chicken,Chicken-dishes,85
+462,Wyngz,Chicken-dishes,92
+463,Candy apple,Desserts,11
+464,Pineapple juice,Soft-drinks,7
+465,Chicken marsala,Chicken-dishes,56
+466,Chicken Francese,Chicken-dishes,96
+467,Blackberry pie,Desserts,20
+468,Egg Drop Soup,Soup,12
+469,Chocolate Chip Cookie,Desserts,17
+470,Mulled wine,Hot-drinks,13
+471,Sunny-Side-Up Pizza,Pizza,49
+472,Sour Cherry Pie,Desserts,11
+473,Coconut Cake,Desserts,13
+474,Spinach and Artichoke Pizza,Pizza,63
+475,Blueberry pie,Desserts,14
+476,Swiss wing,Chicken-dishes,80
+477,Pinikpikan,Chicken-dishes,66
+478,Marocchino,Hot-drinks,13
+479,Chicken pie,Chicken-dishes,91
+480,Cream of tomato,Soup,11
+481,Jerk chicken,Chicken-dishes,95
+482,Gribenes,Chicken-dishes,61
+483,Berry-Patch Brownie Pizza,Pizza,63
+484,Cafreal,Chicken-dishes,99
+485,Apple Crisp Pizza,Pizza,63
+486,Barberton chicken,Chicken-dishes,85
+487,Chicken tabaka,Chicken-dishes,88
+488,Cuban espresso,Hot-drinks,13
+489,Watercress juice,Soft-drinks,5
+490,Chicken Lahori,Chicken-dishes,70
+491,Limeade,Soft-drinks,6
+492,Chicken lollipop,Chicken-dishes,81
+493,Indian Yogurt Dip,Appetizers,13
+494,Chicken and Vegetable Soup,Soup,9
+495,Piccata,Chicken-dishes,91
+496,Chilli chicken,Chicken-dishes,81
+497,Gulai Ayam,Chicken-dishes,75
+498,Cornes de Gazelle,Desserts,18
+499,Double Down,Chicken-dishes,54
+500,Ayam betutu,Chicken-dishes,53
+501,Backhendl,Chicken-dishes,61
+502,Cheddar Biscuits,Appetizers,18
+503,Creamy Stuffed Mushrooms,Appetizers,15
+504,Cookie,Desserts,14
+505,Nasi liwet,Chicken-dishes,90
+506,Sake,Hot-drinks,9
+507,Tres leches cake,Desserts,16
+508,Meat Pizza,Pizza,50
+509,Espressino,Hot-drinks,14
+510,Ravioli Appetizer Pops,Appetizers,16
+511,Mama's Puerto Rican Chicken,Chicken-dishes,84
+512,Rice pudding,Desserts,17
+513,Baked Spinach Dip Loaf,Appetizers,14
+514,Dak galbi,Chicken-dishes,66
+515,Pepperoni Pizza,Pizza,53
+516,Bavarian cream,Desserts,14
+517,Butternut Squash Soup,Soup,10
+518,Medovik,Desserts,17
+519,Pepper Sausage Pizza,Pizza,46
+520,King Ranch Chicken,Chicken-dishes,63
+521,Matzo Ball Soup,Soup,12
+522,Heißer Apfelwein,Hot-drinks,12
+523,Chikuzenni,Chicken-dishes,56
+524,Cantaloupe juice,Soft-drinks,4
+525,Cock-a-leekie soup,Chicken-dishes,72
+526,Crêpe,Desserts,15
+527,White cut chicken,Chicken-dishes,80
+528,Pumpkin-Chipotle Soup Shooters,Appetizers,17
+529,Mangalorean Chicken Sukka,Chicken-dishes,48
+530,Chi-Mc,Chicken-dishes,74
+531,Tiramisú,Desserts,17
+532,Chicken Cordon Bleu Pizza,Pizza,22
+533,Ladyfinger,Desserts,17
+534,Deviled Crab Dip,Appetizers,15
+535,Mie ayam,Chicken-dishes,60
+536,Gingerbread,Desserts,15
+537,Rose's lime juice,Soft-drinks,10
+538,Chicken Stroganoff,Chicken-dishes,74
+539,Matt's Jerk Chicken,Chicken-dishes,95
+540,Chkmeruli,Chicken-dishes,55
+541,Mandazi,Desserts,15
+542,Cannoli,Desserts,16
+543,Kielbasa-Apple Skewers,Appetizers,15
+544,Slow-Cooked Italian Chicken,Chicken-dishes,62
+545,Sorbet,Desserts,19
+546,Cranberry juice,Soft-drinks,5
+547,Milo,Hot-drinks,9
+548,Blondie,Desserts,11
+549,Gelato,Desserts,15
+550,Tub Tim Krob,Desserts,12
+551,Galinha à portuguesa,Chicken-dishes,49
+552,Chuan,Chicken-dishes,69
+553,Classic Swedish Meatballs,Appetizers,14
+554,Mate cocido,Hot-drinks,10
+555,Butternut squash,Soup,9
+556,Black Forest cake,Desserts,19
+557,Parsley juice,Soft-drinks,3
+558,Parmigiana,Chicken-dishes,63
+559,Swiss Cheese Bread,Appetizers,16
+560,Cherry juice,Soft-drinks,9
+561,German chocolate cake,Desserts,15
+562,Chicken nugget,Chicken-dishes,61
+563,White chocolate,Desserts,15
+564,Coronation chicken,Chicken-dishes,66
+565,Blue Cheese–Pecan Spread,Appetizers,8
+566,Kuku Paka,Chicken-dishes,52
+567,Waterzooi,Chicken-dishes,89
+568,Appetizer Tomato Cheese Bread,Appetizers,16
+569,The Works Pizza,Pizza,31
+570,Molten Chocolate Cake,Desserts,16
+571,Thai Red Curry Chicken & Vegetables,Chicken-dishes,89
+572,Upper Peninsula Pasties,Appetizers,8
+573,Corn Chowder,Soup,11
+574,Pog,Soft-drinks,9
+575,Zuppa Toscana,Soup,12
+576,Soda,Hot-drinks,8
+577,Cola chicken,Chicken-dishes,96
+578,Slow-Cooker Cheddar Bacon Beer Dip,Appetizers,12
+579,Beer can chicken,Chicken-dishes,41
+580,Meatball Pizza,Pizza,20
+581,Chicken French,Chicken-dishes,44
+582,Saltimbocca,Chicken-dishes,59
+583,Irish coffee,Hot-drinks,11
+584,Samgyetang,Chicken-dishes,80
+585,Caudle,Hot-drinks,11
+586,Opor ayam,Chicken-dishes,87
+587,Pavlova,Desserts,11
+588,Sugarcane juice,Soft-drinks,10
+589,Ayam bakar,Chicken-dishes,76
+590,Party Shrimp,Appetizers,12
+591,Hot chicken,Chicken-dishes,86
+592,Saffron Ice Cream,Desserts,16
+593,Cuban Sliders,Appetizers,10
+594,Masala tea,Hot-drinks,5
+595,BBQ Chicken Pizza,Pizza,52
+596,Bear claw,Desserts,13
+597,Goat Cheese Trio,Appetizers,14
+598,Teh talua,Hot-drinks,12
+599,Chicken and dumplings,Chicken-dishes,40
+600,Prune juice,Soft-drinks,3
+601,Satay,Chicken-dishes,94
+602,Lingonberry juice,Soft-drinks,10
+603,Tinga (dish),Chicken-dishes,41
+604,Barbecued Meatballs,Appetizers,8
+605,Barbecued Chicken Pizzas,Pizza,61
+606,Consommé,Hot-drinks,13
+607,Pastilla,Chicken-dishes,97
+608,Wassail ,Hot-drinks,11
+609,Karaage,Chicken-dishes,52
+610,Peanut butter cookie,Desserts,12
+611,Supreme Pizza,Pizza,48
+612,Buffalo Chicken Pizza,Pizza,68
+613,Pepper Poppers,Appetizers,9
+614,Hot toddy,Hot-drinks,6
+615,Ayam kecap,Chicken-dishes,96
+616,Buffalo Pizza,Pizza,33
+617,Rüdesheimer,Hot-drinks,7
+618,Olivier salad,Chicken-dishes,69
+619,Beggar's Chicken,Chicken-dishes,75
+620,Circassian chicken,Chicken-dishes,77
+621,Chili-Lime Chicken Wings,Appetizers,12
+622,Waffle,Desserts,14
+623,Macaron,Desserts,15
+624,Kadai chicken,Chicken-dishes,60
+625,Spiced Pita Chips,Appetizers,12
+626,Asiático,Hot-drinks,10
+627,Custard tart,Desserts,19
+628,Smoked Salmon Canapes,Appetizers,16
+629,Kai yang,Chicken-dishes,60
+630,Asian Chicken Rice Bowl,Chicken-dishes,59
+631,Big Kahuna Pizza,Pizza,28
+632,Moo goo gai pan,Chicken-dishes,74
+633,Chicken Marengo,Chicken-dishes,77
+634,Chicken karahi,Chicken-dishes,42
+635,Cucumber-Caviar Rounds,Appetizers,14
+636,Cucumber juice,Soft-drinks,10
+637,Apple juice,Soft-drinks,4
+638,Macaroon,Desserts,20
+639,Beer and Brats Nachos,Appetizers,16
+640,Pavlova,Desserts,14
+641,Hot Crab Dip,Appetizers,8
+642,Cannellini Bruschetta,Appetizers,17
+643,Salep,Hot-drinks,10
+644,Coconut Chicken and Shrimp,Appetizers,16
+645,Shrimp with Sauce Verte,Appetizers,18
+646,Greek-Style Pizza,Pizza,53
+647,Chicken cacciatore,Chicken-dishes,40
+648,Bundt Cake,Desserts,19
+649,Greek Chicken with Green Beans,Chicken-dishes,62
+650,Stracciatella,Desserts,16
+651,Thanksgiving Lover's Pizza,Pizza,24
+652,Inasal na manok,Chicken-dishes,38
+653,Liquorice,Desserts,14
+654,Afritada,Chicken-dishes,45
+655,Chicken Parmesan Slider Bake,Appetizers,15
+656,Philippine adobo,Chicken-dishes,57
+657,Caribbean Curried Chicken,Chicken-dishes,74
+658,Chicken noodle,Soup,9
+659,Dandelion-green juice,Soft-drinks,3
+660,Lontong Cap Go Meh,Chicken-dishes,76
+661,Cajun Chicken Lasagna,Chicken-dishes,89
+662,Diet Pepsi,Soft-drinks,7
+663,Pimiento Cheese Spread,Appetizers,17
+664,Tangy Tropical Chicken,Chicken-dishes,59
+665,Lychee juice,Soft-drinks,3
+666,Gorgonzola and Pear Polenta Rounds,Appetizers,17
+667,Wedding cake,Desserts,16
+668,Buffalo wing,Chicken-dishes,45
+669,Cannoli,Desserts,15
+670,Root Beer Float,Desserts,19
+671,Chicken Vesuvio,Chicken-dishes,86
+672,Kori Rotti,Chicken-dishes,43
+673,Fried Artichoke Hearts,Appetizers,9
+674,Chocolate Cake,Desserts,17
+675,Bacon Breakfast Pizza,Pizza,60
+676,Poulet au fromage,Chicken-dishes,82
+677,Fortune cookie,Desserts,20
+678,Grilled Chicken, Mango & Blue Cheese Tortillas,Appetizers,10
+679,Spiced Fried Chickpeas,Appetizers,17
+680,Chocolate Chip Cookies,Desserts,20
+681,Pepperoni Pizza Spread,Appetizers,15
+682,Kung Pao chicken,Chicken-dishes,82
+683,Apple Pie,Desserts,20
+684,Guava juice,Soft-drinks,10
+685,Jelly bean,Desserts,20
+686,Lavangi (food),Chicken-dishes,89
+687,Lemon juice,Soft-drinks,3
+688,Hawaiian Pizza,Pizza,26
+689,Do Pyaza,Chicken-dishes,83
+690,Chicken riggies,Chicken-dishes,43
+691,Chai tea,Hot-drinks,8
+692,Cake,Desserts,17
+693,Éclair,Desserts,18
+694,Chicken Merlot with Mushrooms,Chicken-dishes,49
+695,Grog,Hot-drinks,6
+696,Shaved ice / snow cone,Desserts,19
+697,Grilled Sausage-Basil Pizzas,Pizza,38
